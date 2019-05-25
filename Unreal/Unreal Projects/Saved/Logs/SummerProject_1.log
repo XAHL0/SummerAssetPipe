@@ -1509,3 +1509,4 @@ Exception rethrown at [0]:
 [2019.05.25-03.40.02:631][688]LogSavePackage: Moving '../../../../../../Users/CJ/Documents/Github/SummerAssetPipe/Unreal/Unreal Projects/Saved/StreetHouse736996A849FA79BFB097C094D4472E94.tmp' to '../../../../../../Users/CJ/Documents/Github/SummerAssetPipe/Unreal/Unreal Projects/Content/Project_1_Github/StreetHouse.umap'
 [2019.05.25-03.40.02:878][688]LogSavePackage: Moving '../../../../../../Users/CJ/Documents/Github/SummerAssetPipe/Unreal/Unreal Projects/Saved/StreetHouse_BuiltData906851D04607832777E7EE9AA4879F8A.tmp' to '../../../../../../Users/CJ/Documents/Github/SummerAssetPipe/Unreal/Unreal Projects/Content/Project_1_Github/StreetHouse_BuiltData.uasset'
 [2019.05.25-03.40.53:854][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.25-03.45.03:151][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
