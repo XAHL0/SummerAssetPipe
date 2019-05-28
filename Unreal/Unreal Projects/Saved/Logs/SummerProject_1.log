@@ -732,3 +732,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.28-18.10.55:288][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.05.28-19.48.19:337][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.05.28-19.55.22:191][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-20.17.00:455][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-20.37.09:744][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
